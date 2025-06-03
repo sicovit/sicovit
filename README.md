@@ -1,4 +1,4 @@
-## Hi there my name is Seth
+
 <h1>Hi, I'm Seth, an <a href="https://www.linkedin.com/in/seth-hager-468318b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1QNZWsL0Sb2KgZrNOn8IrQ%3D%3D">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
