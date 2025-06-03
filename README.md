@@ -18,7 +18,7 @@
 
 
 [twitter]: https://twitter.com/s_hager3
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/seth-hager-468318b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1QNZWsL0Sb2KgZrNOn8IrQ%3D%3D
+[linkedin]: https://linkedin.com/in/seth-hager-468318b9/
 
 <!--
 **sicovit/sicovit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
