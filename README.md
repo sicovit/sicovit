@@ -5,12 +5,12 @@
 
 - <b>Microsoft Azure</b>
   - [Implementing cloud resources via Azure: resource groups, VMs, and virtual networking](https://github.com/sicovit/osticket-prereqs)
+- <b>Active Directory</b>
+  - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/configure-ad)
+  - [Managing user access controls, domain account administration, and DNS services](https://github.com/sicovit/azure-network-protocols)
+- <b>osTicket Installation and Configuration<b>
   - [osTicket: Post-Installation Configuration](https://github.com/sicovit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sicovit/ticket-lifecycle)
-- <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sicovit/configure-ad)
-  - [Managing user access controls, domain account administration, and DNS services](https://github.com/sicovit/azure-network-protocols)
-- <b>osTicket installation and configuration<b>
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
