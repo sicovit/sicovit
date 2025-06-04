@@ -3,13 +3,13 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/sicovit/osticket-prereqs)
+- <b>Microsoft Azure</b>
+  - [Implementing cloud resources via Azure: resource groups, VMs, and virtual networking](https://github.com/sicovit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/sicovit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sicovit/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sicovit/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sicovit/azure-network-protocols)
+  - [Managing user access controls, domain account administration, and DNS services](https://github.com/sicovit/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
