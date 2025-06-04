@@ -10,7 +10,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sicovit/configure-ad)
   - [Managing user access controls, domain account administration, and DNS services](https://github.com/sicovit/azure-network-protocols)
-
+- <b>osTicket installation and configuration<b>
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
