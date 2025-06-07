@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Implementing cloud resources via Azure: resource groups, VMs, and virtual networking](https://github.com/sicovit/osticket-prereqs)
+  - [Implementing cloud resources via Azure: resource groups, VMs, and virtual networking](https://github.com/sicovit/implementing-cloud-resources)
 - <b>Active Directory</b>
   - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/configure-ad)
   - [Managing user access controls, domain account administration, and DNS services](https://github.com/sicovit/azure-network-protocols)
