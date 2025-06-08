@@ -6,7 +6,7 @@
 - <b>Microsoft Azure</b>
   - [Implementing cloud resources via Azure: resource groups, VMs, and virtual networking](https://github.com/sicovit/implementing-cloud-resources)
 - <b>Active Directory</b>
-  - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/configure-ad)
+  - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/active-directory-environment)
   - [Managing user access controls, domain account administration, and DNS services](https://github.com/sicovit/azure-network-protocols)
 - <b>osTicket Installation and Configuration<b>
   - [osTicket: Post-Installation Configuration](https://github.com/sicovit/post-install-config)
