@@ -7,7 +7,7 @@
   - [Implementing Cloud Resources via Azure: Resource Groups, Virtual Machines, and Virtual Networks](https://github.com/sicovit/implementing-cloud-resources)
 - <b>Active Directory</b>
   - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/active-directory-environment)
-  - [File Access and Permissions](https://github.com/sicovit/file-access-permissions)
+  - [File Sharing and Permissions](https://github.com/sicovit/file-access-permissions)
 - <b>osTicket<b>
   - [osTicket: Using SLA and Working a Ticket](https://github.com/sicovit/osticket-SLA-and-example)
 <h2>🤳Connect with me:</h2>
