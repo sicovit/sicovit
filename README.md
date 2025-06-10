@@ -9,7 +9,7 @@
   - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/active-directory-environment)
   - [File Access and Permissions](https://github.com/sicovit/file-access-permissions)
 - <b>osTicket Installation and Configuration<b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/sicovit/osticket-SLA-and-example)
+  - [osTicket: ](https://github.com/sicovit/osticket-SLA-and-example)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Seth | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
