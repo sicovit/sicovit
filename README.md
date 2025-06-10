@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Implementing Cloud Resources via Azure: Resource Groups, Virtual Machines, and Virtual Networks](https://github.com/sicovit/implementing-cloud-resources)
+  - [Implementing Cloud Resources in Azure: Resource Groups, Virtual Machines, and Virtual Networks](https://github.com/sicovit/implementing-cloud-resources)
 - <b>Active Directory</b>
   - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/active-directory-environment)
   - [File Sharing and Permissions](https://github.com/sicovit/file-access-permissions)
