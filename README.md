@@ -9,7 +9,6 @@
   - [Establishing an Active Directory environment on Azure to mirror an on-premises setup](https://github.com/sicovit/active-directory-environment)
   - [File Access and Permissions](https://github.com/sicovit/file-access-permissions)
 - <b>osTicket Installation and Configuration<b>
-  - [osTicket: Post-Installation Configuration](https://github.com/sicovit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sicovit/ticket-lifecycle)
 <h2>🤳Connect with me:</h2>
 
